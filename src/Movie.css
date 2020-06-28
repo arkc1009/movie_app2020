@@ -1,0 +1,14 @@
+.movie {
+  text-align: center;
+  display: grid;
+  grid-template-columns: 0.2fr 0.5fr;
+}
+.movie img {
+  box-shadow: 1px 1px 3px 3px grey;
+  margin: 1rem;
+}
+.movie .movie_title {
+  color: white;
+  text-shadow: gray 2px 2px;
+  background-color: black;
+}
